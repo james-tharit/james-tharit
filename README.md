@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m James T
 
 > 👀 I’m interested in Fullstack development
-> 🌱 I’m currently learning t3 stack/ApolloGraphQL/React/Svelte/Flutter
+> 🌱 I’m currently learning about Android with Kotlin/ApolloGraphQL/React/Svelte/Flutter
 > 💞️ I’m looking to collaborate on any open-source project related to web application
 > 📫 my email: tharit.rt@gmail.com
 
