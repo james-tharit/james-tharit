@@ -14,6 +14,9 @@
     <a href="https://medium.com/@tharit.rt">
       <img src="https://img.shields.io/badge/Medium-gray?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
+  <a href="https://stackoverflow.com/users/11612628/james-t">
+      <img src="https://img.shields.io/badge/Stackoverflow-white?style=for-the-badge&logo=stackoverflow&logoColor=orenge" alt="Stackoverflow Badge"/>
+    </a>
   </div>
 
 ### 💻 Tech Stack:
