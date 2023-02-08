@@ -1,9 +1,8 @@
 ## 👋 Hi, I’m James T
 
-> 👀 I’m interested in Fullstack development
-> 🌱 I’m currently learning about Native mobile development. Also learning ApolloGraphQL/React/Svelte/Astro and Flutter
-> 💞️ I’m looking to collaborate on any open-source project related to web application
-> 📫 my email: tharit.rt@gmail.com
+- 🌱 I’m currently learning about Native mobile development. Also learning ApolloGraphQL/React/Svelte/Astro and Flutter
+- 💞️ I’m looking to collaborate on any open-source project related to web application
+- 📫 my email: tharit.rt@gmail.com
 
 ### 🌐 Socials:
 
