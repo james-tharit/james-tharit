@@ -1,9 +1,8 @@
 ## 👋 Hi, I’m James T
 
-- 🌱 I’m currently learning about ApolloGraphQL/React/Svelte/Astro and Rust
+- 🌱 I’m currently learning about security 
 - 💞️ I’m looking to collaborate on any open-source project related to web application
 - 📫 my email: tharit.rt@gmail.com
-- 📘 my vault: https://james-tharit.github.io/p-blog/
 
 ### 🌐 Socials:
 
