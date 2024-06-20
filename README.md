@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m James T
 
-- 🌱 I’m currently learning about security 
+- 🌱 I’m currently learning about Application Security and Rust
 - 💞️ I’m looking to collaborate on any open-source project related to web application
 - 📫 my email: tharit.rt@gmail.com
 
